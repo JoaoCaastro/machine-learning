@@ -6,9 +6,9 @@
 
 ## Steps
 
-Initilize a conda environment\n
+Initilize a conda environment <br/>
 $ conda create -n env python=3.10
 
-Installing pandas and dependecies\n
+Installing pandas and dependecies <br/>
 $ conda install pandas
 
